@@ -52,7 +52,7 @@ namespace ComputerApp
 
         public void DisplayWinchesterSize()
         {
-            Console.WriteLine($"Winchester size: {winchester.Size}GB");
+            Console.WriteLine($"Winchester size: {winchester.size}GB");
         }
 
         public override string ToString()
