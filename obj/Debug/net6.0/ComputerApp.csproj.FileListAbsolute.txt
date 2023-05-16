@@ -1,0 +1,15 @@
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ComputerApp.csproj.AssemblyReference.cache
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ComputerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ComputerApp.AssemblyInfoInputs.cache
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ComputerApp.AssemblyInfo.cs
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ComputerApp.csproj.CoreCompileInputs.cache
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\bin\Debug\net6.0\ComputerApp.exe
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\bin\Debug\net6.0\ComputerApp.deps.json
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\bin\Debug\net6.0\ComputerApp.runtimeconfig.json
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\bin\Debug\net6.0\ComputerApp.dll
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\bin\Debug\net6.0\ComputerApp.pdb
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ComputerApp.dll
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\refint\ComputerApp.dll
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ComputerApp.pdb
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ComputerApp.genruntimeconfig.cache
+C:\Users\judev\OneDrive\Desktop\janat\ComputerApp\obj\Debug\net6.0\ref\ComputerApp.dll
